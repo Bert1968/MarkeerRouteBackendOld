@@ -1,0 +1,587 @@
+[
+  {
+    "Name": "LIM S GEM",
+    "SupplierOrganizationName": "I Fiori di Roma",
+    "VbnProductCode": "235",
+    "VbnProductName": "LIM S GEM",
+    "CurrentNumberOfPieces": 50,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "74f7764d-85b4-4d95-a886-0c3a8caae2fe"
+  },
+  {
+    "Name": "GEM BOEKET OV",
+    "SupplierOrganizationName": "Deco4Nature",
+    "VbnProductCode": "396",
+    "VbnProductName": "GEM BOEKET OV",
+    "CurrentNumberOfPieces": 16,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "8df35a0d-a8ed-43a3-9251-3f052baaaec9"
+  },
+  {
+    "Name": "ILEX VE RODE BES",
+    "SupplierOrganizationName": "FH testnummer 05",
+    "VbnProductCode": "845",
+    "VbnProductName": "ILEX VE RODE BES",
+    "CurrentNumberOfPieces": 1440,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "ac16abd4-9d2e-420d-a84d-f0e07748ac9f"
+  },
+  {
+    "Name": "ANTIR GEM",
+    "SupplierOrganizationName": "Firma C.D. Groen",
+    "VbnProductCode": "1255",
+    "VbnProductName": "ANTIR GEM",
+    "CurrentNumberOfPieces": 480,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "11f69101-6091-4163-af87-4cc9c0da0ade"
+  },
+  {
+    "Name": "DI BARB GEM BOS",
+    "SupplierOrganizationName": "Dijkstra Flowers",
+    "VbnProductCode": "1877",
+    "VbnProductName": "DI BARB GEM BOS",
+    "CurrentNumberOfPieces": 110,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "9b9c978f-ed11-4184-9a17-2a5685f11b6b"
+  },
+  {
+    "Name": "EUC CINEREA PER BOS",
+    "SupplierOrganizationName": "I Fiori di Roma",
+    "VbnProductCode": "3507",
+    "VbnProductName": "EUC CINEREA PER BOS",
+    "CurrentNumberOfPieces": 120,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "ea54df18-fb1f-42d4-8d53-b72abec20e36"
+  },
+  {
+    "Name": "PAEO L DUCHES D NEMO",
+    "SupplierOrganizationName": "Bruins Snijheesters",
+    "VbnProductCode": "5558",
+    "VbnProductName": "PAEO L DUCHES D NEMO",
+    "CurrentNumberOfPieces": 900,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "d16e23cf-ddc8-41e7-adbb-5e5fc6303e77"
+  },
+  {
+    "Name": "PISTA OV BLAD",
+    "SupplierOrganizationName": "Steen Greens",
+    "VbnProductCode": "7106",
+    "VbnProductName": "PISTA OV BLAD",
+    "CurrentNumberOfPieces": 700,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "cefc27bc-f9d2-453d-8acc-a9e63d7451bd"
+  },
+  {
+    "Name": "BEGO SE GEM",
+    "SupplierOrganizationName": "A.B. Broos",
+    "VbnProductCode": "7138",
+    "VbnProductName": "BEGO SE GEM",
+    "CurrentNumberOfPieces": 1296,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "97d9362d-2bf6-4727-8c54-63af5e151a1b"
+  },
+  {
+    "Name": "PAEO RED CHARM",
+    "SupplierOrganizationName": "J C Knook",
+    "VbnProductCode": "7259",
+    "VbnProductName": "PAEO RED CHARM",
+    "CurrentNumberOfPieces": 180,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "640211df-3e23-4a67-8323-227d517b84fe"
+  },
+  {
+    "Name": "PERKPL MIXK",
+    "SupplierOrganizationName": "Rick\u0027s Flowers",
+    "VbnProductCode": "8153",
+    "VbnProductName": "PERKPL MIXK",
+    "CurrentNumberOfPieces": 768,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "33e1d751-2e2a-4577-9c9c-eb9db0611c44"
+  },
+  {
+    "Name": "BOUGAINV SANDERIANA",
+    "SupplierOrganizationName": "De Wintertuin BV",
+    "VbnProductCode": "8269",
+    "VbnProductName": "BOUGAINV SANDERIANA",
+    "CurrentNumberOfPieces": 96,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "013edb14-5fda-484a-84a6-5828d52031e2"
+  },
+  {
+    "Name": "FIC BEN EXOTICA",
+    "SupplierOrganizationName": "Testnummer klok (niet sluiten)",
+    "VbnProductCode": "9566",
+    "VbnProductName": "FIC BEN EXOTICA",
+    "CurrentNumberOfPieces": 1,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "a7f97ba5-3161-4818-a6da-e4847ffd499c"
+  },
+  {
+    "Name": "SANSEV LAURENTII",
+    "SupplierOrganizationName": "FH testnummer 05",
+    "VbnProductCode": "9569",
+    "VbnProductName": "SANSEV LAURENTII",
+    "CurrentNumberOfPieces": 72,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "869c3405-7ea4-4346-94a0-884aa424bef0"
+  },
+  {
+    "Name": "PRUNUS COMET",
+    "SupplierOrganizationName": "Testnummer klok (niet sluiten)",
+    "VbnProductCode": "11822",
+    "VbnProductName": "PRUNUS COMET",
+    "CurrentNumberOfPieces": 9801,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "8b26d4c5-6b8c-4d95-972f-28c0ec0aa455"
+  },
+  {
+    "Name": "PRUNUS COMET",
+    "SupplierOrganizationName": "Testnummer klok (niet sluiten)",
+    "VbnProductCode": "11822",
+    "VbnProductName": "PRUNUS COMET",
+    "CurrentNumberOfPieces": 9801,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "633bb374-e589-4423-a8d7-513f39e216f3"
+  },
+  {
+    "Name": "PRUNUS COMET",
+    "SupplierOrganizationName": "Testnummer klok (niet sluiten)",
+    "VbnProductCode": "11822",
+    "VbnProductName": "PRUNUS COMET",
+    "CurrentNumberOfPieces": 9801,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "d0ffa975-84b3-45d8-b1da-c53565f2586b"
+  },
+  {
+    "Name": "ALCHEM M ROBUSTICA",
+    "SupplierOrganizationName": "RFH Eelde Select",
+    "VbnProductCode": "13537",
+    "VbnProductName": "ALCHEM M ROBUSTICA",
+    "CurrentNumberOfPieces": 1000,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "0680cb31-3b69-4819-9bfd-02fd77c88b04"
+  },
+  {
+    "Name": "MATTH FIGARO LAVENDE",
+    "SupplierOrganizationName": "Anton van der Hout",
+    "VbnProductCode": "17767",
+    "VbnProductName": "MATTH FIGARO LAVENDE",
+    "CurrentNumberOfPieces": 120,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "eda010e5-61c9-4c9a-beac-3949f8ec2f93"
+  },
+  {
+    "Name": "MATTH AIDA WHITE",
+    "SupplierOrganizationName": "J. de Vries",
+    "VbnProductCode": "18159",
+    "VbnProductName": "MATTH AIDA WHITE",
+    "CurrentNumberOfPieces": 950,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "42d33eca-7bf8-4a4a-96f2-54a2b49c5f63"
+  },
+  {
+    "Name": "LI LA BRINDISI",
+    "SupplierOrganizationName": "Bredefleur",
+    "VbnProductCode": "19497",
+    "VbnProductName": "LI LA BRINDISI",
+    "CurrentNumberOfPieces": 240,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "705938ab-de97-4854-9842-a20c5bd2fc22"
+  },
+  {
+    "Name": "HYDR M DUTCH L SELMA",
+    "SupplierOrganizationName": "Islandplant BV",
+    "VbnProductCode": "23486",
+    "VbnProductName": "HYDR M DUTCH L SELMA",
+    "CurrentNumberOfPieces": 180,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "892c4ff4-f68d-4eeb-8ffd-4a742024eb75"
+  },
+  {
+    "Name": "DI ST PINK MONTEZUMA",
+    "SupplierOrganizationName": "EMF",
+    "VbnProductCode": "24054",
+    "VbnProductName": "DI ST PINK MONTEZUMA",
+    "CurrentNumberOfPieces": 320,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "eef3dbdb-e5e5-4e9e-979a-45b58638f90a"
+  },
+  {
+    "Name": "HELI PREMIER ORANGE",
+    "SupplierOrganizationName": "Bloemkw de Ruiter",
+    "VbnProductCode": "27071",
+    "VbnProductName": "HELI PREMIER ORANGE",
+    "CurrentNumberOfPieces": 520,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "32da9e90-857f-48af-baea-7d41a68b0681"
+  },
+  {
+    "Name": "PET FOR GEM",
+    "SupplierOrganizationName": "Gebr. Berghuis",
+    "VbnProductCode": "100416",
+    "VbnProductName": "PET FOR GEM",
+    "CurrentNumberOfPieces": 924,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "20e991db-bf3b-4739-bc3a-25bfa850ca0a"
+  },
+  {
+    "Name": "GE GR CAPTIVA",
+    "SupplierOrganizationName": "Esmeralda",
+    "VbnProductCode": "101763",
+    "VbnProductName": "GE GR CAPTIVA",
+    "CurrentNumberOfPieces": 240,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "31a17466-365d-474f-820e-81e2d2a648df"
+  },
+  {
+    "Name": "CEL C ACT RIMA",
+    "SupplierOrganizationName": "Feiko Sonneveld",
+    "VbnProductCode": "103250",
+    "VbnProductName": "CEL C ACT RIMA",
+    "CurrentNumberOfPieces": 240,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "7b752eeb-ff42-4f93-bd4e-cd6ce1987445"
+  },
+  {
+    "Name": "PLEC C WIZARD JADE",
+    "SupplierOrganizationName": "Gebr. Berghuis",
+    "VbnProductCode": "103828",
+    "VbnProductName": "PLEC C WIZARD JADE",
+    "CurrentNumberOfPieces": 264,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "c1ce5207-97ed-4421-820b-37e2a722f5b2"
+  },
+  {
+    "Name": "DI ST TAMARIND",
+    "SupplierOrganizationName": "EMF",
+    "VbnProductCode": "105286",
+    "VbnProductName": "DI ST TAMARIND",
+    "CurrentNumberOfPieces": 320,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "5e10cd21-7aa1-4201-a914-8b7d0d1b5f30"
+  },
+  {
+    "Name": "ALSTR DANCING QUEEN",
+    "SupplierOrganizationName": "Firma A. Vreugdenhil",
+    "VbnProductCode": "105652",
+    "VbnProductName": "ALSTR DANCING QUEEN",
+    "CurrentNumberOfPieces": 360,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "00f6bcb6-a99e-458f-b249-ee55f976ed5e"
+  },
+  {
+    "Name": "LIM SAF LILAC",
+    "SupplierOrganizationName": "Beauty Line",
+    "VbnProductCode": "107109",
+    "VbnProductName": "LIM SAF LILAC",
+    "CurrentNumberOfPieces": 100,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "91c523c1-1def-4947-94b3-f292f9b61fe8"
+  },
+  {
+    "Name": "GE MI MASSERATI",
+    "SupplierOrganizationName": "Oudijk Gerbera",
+    "VbnProductCode": "107221",
+    "VbnProductName": "GE MI MASSERATI",
+    "CurrentNumberOfPieces": 320,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "819286a5-9bcc-458e-935a-22ef5c3d7604"
+  },
+  {
+    "Name": "OSTEO MA PINK FLARE",
+    "SupplierOrganizationName": "Van den Berg De Lier",
+    "VbnProductCode": "107634",
+    "VbnProductName": "OSTEO MA PINK FLARE",
+    "CurrentNumberOfPieces": 192,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "f2b71eaf-d49a-4b07-abf4-ba3e6917b431"
+  },
+  {
+    "Name": "EUS G GEM IN FUST",
+    "SupplierOrganizationName": "Lugt Lisianthus",
+    "VbnProductCode": "108992",
+    "VbnProductName": "EUS G GEM IN FUST",
+    "CurrentNumberOfPieces": 400,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "008282fa-68c5-4a22-8509-dc0075017181"
+  },
+  {
+    "Name": "CALIB MIXK",
+    "SupplierOrganizationName": "Kwekerij Baas",
+    "VbnProductCode": "109117",
+    "VbnProductName": "CALIB MIXK",
+    "CurrentNumberOfPieces": 576,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "270eece5-1969-47ea-9299-a2723b7f9e6f"
+  },
+  {
+    "Name": "R GR SWEET DOLOMITI@",
+    "SupplierOrganizationName": "Marjoland",
+    "VbnProductCode": "109180",
+    "VbnProductName": "R GR SWEET DOLOMITI@",
+    "CurrentNumberOfPieces": 50,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "ebe321c5-a6ea-45af-a6ca-45ec653557a3"
+  },
+  {
+    "Name": "ARR TUINPLANTEN",
+    "SupplierOrganizationName": "PT-Creations BV",
+    "VbnProductCode": "109317",
+    "VbnProductName": "ARR TUINPLANTEN",
+    "CurrentNumberOfPieces": 15,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "3920fac3-8916-4ded-9e51-5b00f1cc47a1"
+  },
+  {
+    "Name": "ARR TUINPLANTEN",
+    "SupplierOrganizationName": "Hulsebosch bij de Hertjes",
+    "VbnProductCode": "109317",
+    "VbnProductName": "ARR TUINPLANTEN",
+    "CurrentNumberOfPieces": 48,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "89421b79-4ecd-4c3b-9925-34f5b83907d0"
+  },
+  {
+    "Name": "R GR CELEB",
+    "SupplierOrganizationName": "Everflora Ltd.",
+    "VbnProductCode": "110649",
+    "VbnProductName": "R GR CELEB",
+    "CurrentNumberOfPieces": 600,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "25422979-ad60-46ac-9e97-8e87d17dea1f"
+  },
+  {
+    "Name": "GE GR TER ICY",
+    "SupplierOrganizationName": "Esmeralda",
+    "VbnProductCode": "110841",
+    "VbnProductName": "GE GR TER ICY",
+    "CurrentNumberOfPieces": 240,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "a615d021-b212-4b4c-87b0-b6b850144169"
+  },
+  {
+    "Name": "R GR MOONWALK",
+    "SupplierOrganizationName": "Panocal International",
+    "VbnProductCode": "111071",
+    "VbnProductName": "R GR MOONWALK",
+    "CurrentNumberOfPieces": 840,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "758cad27-b468-4404-be18-37a0cc16d54d"
+  },
+  {
+    "Name": "PERKPL GEM IN POT",
+    "SupplierOrganizationName": "M. Koezen",
+    "VbnProductCode": "111652",
+    "VbnProductName": "PERKPL GEM IN POT",
+    "CurrentNumberOfPieces": 10,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "cb082de6-0b2a-4cf8-ac7e-9a1068569d66"
+  },
+  {
+    "Name": "PERKPL GEM IN POT",
+    "SupplierOrganizationName": "Kwekerij Baas",
+    "VbnProductCode": "111652",
+    "VbnProductName": "PERKPL GEM IN POT",
+    "CurrentNumberOfPieces": 200,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "3bf56e33-93cd-485c-a649-4d393ccae38d"
+  },
+  {
+    "Name": "PERKPL GEM IN POT",
+    "SupplierOrganizationName": "Zonnehoeve",
+    "VbnProductCode": "111652",
+    "VbnProductName": "PERKPL GEM IN POT",
+    "CurrentNumberOfPieces": 72,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "48188a50-0dc1-4a99-bbaf-603a141d41a3"
+  },
+  {
+    "Name": "DI TR XANTHE",
+    "SupplierOrganizationName": "EMF",
+    "VbnProductCode": "111720",
+    "VbnProductName": "DI TR XANTHE",
+    "CurrentNumberOfPieces": 240,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "ccc92827-0575-4242-8327-f632d99662da"
+  },
+  {
+    "Name": "R GR MADAM RED",
+    "SupplierOrganizationName": "Dale Tiara",
+    "VbnProductCode": "112158",
+    "VbnProductName": "R GR MADAM RED",
+    "CurrentNumberOfPieces": 800,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "f5d70eed-71c4-4241-8756-d1f7677f8345"
+  },
+  {
+    "Name": "CONS R Q ROSE",
+    "SupplierOrganizationName": "Daling Andalusie",
+    "VbnProductCode": "114187",
+    "VbnProductName": "CONS R Q ROSE",
+    "CurrentNumberOfPieces": 1200,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "48b0654e-1704-4efc-a5f6-3cc1fa35041f"
+  },
+  {
+    "Name": "CLEM AMAZING ROME",
+    "SupplierOrganizationName": "RFH Eelde Select",
+    "VbnProductCode": "117009",
+    "VbnProductName": "CLEM AMAZING ROME",
+    "CurrentNumberOfPieces": 160,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "6f88ab0a-14d7-4182-9725-5b4ad944efb3"
+  },
+  {
+    "Name": "CHR G ROSS CHARLOTTE",
+    "SupplierOrganizationName": "Zentoo",
+    "VbnProductCode": "117185",
+    "VbnProductName": "CHR G ROSS CHARLOTTE",
+    "CurrentNumberOfPieces": 120,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "29681608-05e6-4cfc-bf82-57ba15f1327c"
+  },
+  {
+    "Name": "R GR PINK ATHENA",
+    "SupplierOrganizationName": "Everflora Ltd.",
+    "VbnProductCode": "117287",
+    "VbnProductName": "R GR PINK ATHENA",
+    "CurrentNumberOfPieces": 640,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "16cdd04b-2f6a-4e34-8e37-94deffb78d96"
+  },
+  {
+    "Name": "CHR G WILLEM ORANGE",
+    "SupplierOrganizationName": "Vista",
+    "VbnProductCode": "117822",
+    "VbnProductName": "CHR G WILLEM ORANGE",
+    "CurrentNumberOfPieces": 300,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "f2e18b49-d8f7-4f0c-97f3-b8f387d74009"
+  },
+  {
+    "Name": "LI OR DU OVERIG",
+    "SupplierOrganizationName": "Bredefleur",
+    "VbnProductCode": "118870",
+    "VbnProductName": "LI OR DU OVERIG",
+    "CurrentNumberOfPieces": 40,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "3127705e-143a-4d9a-928e-b4bfb60a20e3"
+  },
+  {
+    "Name": "DI ST HERMES ORANGE",
+    "SupplierOrganizationName": "EMF",
+    "VbnProductCode": "119301",
+    "VbnProductName": "DI ST HERMES ORANGE",
+    "CurrentNumberOfPieces": 320,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "5988d956-3a62-4a9a-a7be-d3bb451b0ca7"
+  },
+  {
+    "Name": "MANDE SUN GEM",
+    "SupplierOrganizationName": "Bernhard Patio",
+    "VbnProductCode": "122107",
+    "VbnProductName": "MANDE SUN GEM",
+    "CurrentNumberOfPieces": 108,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "98f3db61-4d2a-45f1-8e52-e2d5b07223ba"
+  },
+  {
+    "Name": "CHR G PIP RED",
+    "SupplierOrganizationName": "ArcadiA",
+    "VbnProductCode": "123180",
+    "VbnProductName": "CHR G PIP RED",
+    "CurrentNumberOfPieces": 240,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "76947743-fe22-471c-8147-eb0c13c99e91"
+  },
+  {
+    "Name": "R GR BELLINI!",
+    "SupplierOrganizationName": "Marjoland XL",
+    "VbnProductCode": "123980",
+    "VbnProductName": "R GR BELLINI!",
+    "CurrentNumberOfPieces": 120,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "586b14a3-d0de-41bd-982d-4f36c0ed8503"
+  },
+  {
+    "Name": "R GR NOELLE!",
+    "SupplierOrganizationName": "Panocal International",
+    "VbnProductCode": "124245",
+    "VbnProductName": "R GR NOELLE!",
+    "CurrentNumberOfPieces": 540,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "f0e99620-afa1-495d-8987-cd744686bc49"
+  },
+  {
+    "Name": "FUCHSIA B F DIANA",
+    "SupplierOrganizationName": "Barreveld",
+    "VbnProductCode": "125183",
+    "VbnProductName": "FUCHSIA B F DIANA",
+    "CurrentNumberOfPieces": 50,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "20dec76e-4b33-4aaa-992f-ff09ece4d38e"
+  },
+  {
+    "Name": "LIM S ISA WHITE",
+    "SupplierOrganizationName": "I Fiori di Roma",
+    "VbnProductCode": "125902",
+    "VbnProductName": "LIM S ISA WHITE",
+    "CurrentNumberOfPieces": 50,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "85b814c1-c0a2-43af-ac6f-6bbd0fbab109"
+  },
+  {
+    "Name": "DI ST MIRAGE",
+    "SupplierOrganizationName": "EMF",
+    "VbnProductCode": "126374",
+    "VbnProductName": "DI ST MIRAGE",
+    "CurrentNumberOfPieces": 320,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "6e3eb1dc-145a-4118-b6b1-3331c7a4f697"
+  },
+  {
+    "Name": "R GR CAMARO",
+    "SupplierOrganizationName": "Panocal International",
+    "VbnProductCode": "127154",
+    "VbnProductName": "R GR CAMARO",
+    "CurrentNumberOfPieces": 1320,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "c690920b-e4af-483d-947f-85fa0317413c"
+  },
+  {
+    "Name": "R GR ROYAL CLASS",
+    "SupplierOrganizationName": "Everflora Ltd.",
+    "VbnProductCode": "129746",
+    "VbnProductName": "R GR ROYAL CLASS",
+    "CurrentNumberOfPieces": 360,
+    "AuctionInformationClockNumber": "C02",
+    "Id": "cbafe3d8-ab8d-407f-bf71-00c782fb6cfa"
+  },
+  {
+    "Name": "PENNI BLACK FOX",
+    "SupplierOrganizationName": "RFH Eelde Select",
+    "VbnProductCode": "129850",
+    "VbnProductName": "PENNI BLACK FOX",
+    "CurrentNumberOfPieces": 400,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "1e59bfdd-603c-402d-9a53-ced6818cc838"
+  },
+  {
+    "Name": "THUNBER BATTISCOMBEI",
+    "SupplierOrganizationName": "Altanova-sales",
+    "VbnProductCode": "317847",
+    "VbnProductName": "THUNBER BATTISCOMBEI",
+    "CurrentNumberOfPieces": 32,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "6108db78-df2e-457c-b56b-69adcafabf2b"
+  },
+  {
+    "Name": "CAMP POR CAMPA NINA",
+    "SupplierOrganizationName": "Bernhard Patio",
+    "VbnProductCode": "367516",
+    "VbnProductName": "CAMP POR CAMPA NINA",
+    "CurrentNumberOfPieces": 48,
+    "AuctionInformationClockNumber": "C01",
+    "Id": "5d088663-173f-44c5-a765-7940d5fdf273"
+  }
+]
