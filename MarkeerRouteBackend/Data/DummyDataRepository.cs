@@ -27,7 +27,9 @@ namespace MarkeerRouteBackend.Data
                             KlokPartijId = p.Id,
                             Prioriteit = 1,
                             VeilVolgordeKlok = p.VeilVolgorde,
-                            GeschatteTijdTotOnderKlok = p.VeilVolgorde * klokPartijen.GemiddeldeTijdPerPartij
+                            GeschatteTijdTotOnderKlok = p.VeilVolgorde * klokPartijen.GemiddeldeTijdPerPartij,
+                            AanvoerderNaam = p.AanvoerderNaam,
+                            ProductNaam = p.ProductNaam
                         }
                  ));
             }
@@ -35,13 +37,15 @@ namespace MarkeerRouteBackend.Data
             for(int i = 0; i < gemarkeerdePartijen.Count; i++)
             {
                 gemarkeerdePartijen[i].RouteVolgnummer = i;
+                gemarkeerdePartijen[i].DebugAantalGeveild = GemarkeerdePartijen.Count - gemarkeerdePartijen.Count;
+                gemarkeerdePartijen[i].DebugAantalNogTeVeilen = gemarkeerdePartijen.Count;
             }
             return gemarkeerdePartijen;
         }
                 
 
 
-        public List<KlokPartij> GetAankomendePartijen(string klok, int timestamp, int gemiddeldeVertraging)
+        public KlokPartijLijst GetAankomendePartijen(string klok, int timestamp, int gemiddeldeVertraging)
         {
             var alleKlokPartijen = Repository.Where(p => p.AuctionInformationClockNumber == klok)
                 .Select(p => new KlokPartij
@@ -60,7 +64,13 @@ namespace MarkeerRouteBackend.Data
                 aankomendeKlokPartijen[i].VeilVolgorde = i;
             }
 
-            return aankomendeKlokPartijen;
+            return new KlokPartijLijst { 
+                DebugAantalGeveild = aantalPartijenAlGeweest,
+                DebugAantalNogTeVeilen = aankomendeKlokPartijen.Count,
+                GemiddeldeTijdPerPartij = gemiddeldeVertraging,
+                KlokNummer = klok,
+                KlokPartijen = aankomendeKlokPartijen
+            };
         }
 
 

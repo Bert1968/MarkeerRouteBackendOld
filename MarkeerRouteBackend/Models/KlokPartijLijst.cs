@@ -7,5 +7,9 @@ namespace MarkeerRouteBackend.Models
         public string KlokNummer { get; set; }
 
         public int GemiddeldeTijdPerPartij { get; set; }
+
+        public int DebugAantalGeveild { get; set; }
+
+        public int DebugAantalNogTeVeilen { get; set; }
     }
 }

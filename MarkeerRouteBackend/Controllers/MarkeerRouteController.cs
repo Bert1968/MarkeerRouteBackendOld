@@ -31,20 +31,12 @@ namespace MarkeerRouteBackend.Controllers
             Guid GemarkeerdePartijId = Guid.NewGuid();
             var partijInfo =  new ActuelePartijInfo
             {
+                DebugTijd = DateTime.Now,
+                DebugTimestamp = timestamp,
                 KlokAankomendePartijen = new List<KlokPartijLijst>
                 {
-                    new KlokPartijLijst()
-                    {
-                        KlokNummer = "C01",
-                        GemiddeldeTijdPerPartij = 6,
-                        KlokPartijen = _repo.GetAankomendePartijen("C01",timestamp, 5)
-                    },
-                    new KlokPartijLijst()
-                    {
-                        KlokNummer = "C02",
-                        GemiddeldeTijdPerPartij = 5,
-                        KlokPartijen = _repo.GetAankomendePartijen("C02",timestamp, 4)
-                    }
+                    _repo.GetAankomendePartijen("C01",timestamp, 6),
+                    _repo.GetAankomendePartijen("C02",timestamp, 5)
                 }
 
             };

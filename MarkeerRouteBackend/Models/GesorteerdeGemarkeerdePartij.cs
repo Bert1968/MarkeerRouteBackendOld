@@ -14,6 +14,12 @@ namespace MarkeerRouteBackend
 
         public int GeschatteTijdTotOnderKlok { get; set; }
 
+        public string ProductNaam { get; set; }
+        public string AanvoerderNaam { get; set; }
+        public int DebugAantalGeveild { get; set; }
+
+        public int DebugAantalNogTeVeilen { get; set; }
+
 
     }
 }
